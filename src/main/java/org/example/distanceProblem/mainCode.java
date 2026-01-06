@@ -39,7 +39,7 @@ public class mainCode {
             System.out.println("Its "+h+ " hour to get in that location");
         }
 
-        
+
 
 
     }
